@@ -10,6 +10,10 @@ AWS, DevOPs, Python, Linux, VS Code, Git, GitHub, GitLab, Jira, Agile, Docker, K
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=myenerarslan&show_icons=true&theme=radical)
 
+## 🛠 Skills
+**AWS, DEVOPS, PYTHON, LINUX, GIT, GITHUB, GITLAB, VISUAL STUDIO CODE,
+KUBERNETES, DOCKER, TERRAFORM, ANSIBLE, JIRA SOFTWARE, SLACK**
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yener-arslan-972521250/)
 
 - 🔭 I’m currently working on ...
