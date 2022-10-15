@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> M. Yener ARSLAN is here.
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Yener ARSLAN is here.
                 (Loading...)
 I prefer Amazon Web Services & DevOps Tools.
 
