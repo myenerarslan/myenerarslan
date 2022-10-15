@@ -7,11 +7,7 @@ I prefer Amazon Web Services & DevOps Tools.
 
 :speech_balloon: Ask me about anything that you want to learn via LinkedIn
 
-## 📊 Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=myenerarslan&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=myenerarslan&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myenerarslan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yener-arslan-972521250/)
 
 ## 🚴 Skills
 <p>
@@ -35,7 +31,13 @@ I prefer Amazon Web Services & DevOps Tools.
 </p>
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yener-arslan-972521250/)
+
+## 📊 Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=myenerarslan&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=myenerarslan&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myenerarslan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
