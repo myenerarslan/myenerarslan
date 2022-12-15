@@ -6,9 +6,7 @@
 </p>
 
 
-
-                (Loading...)
-I prefer Amazon Web Services & DevOps Tools.
+    I prefer Amazon Web Services & DevOps Tools.
 
 :seedling: I’m addicted to learning and growing without stopping as the style of life
 
